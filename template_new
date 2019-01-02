@@ -1,0 +1,6 @@
+
+Rotation:
+Arrays: Left Rotation:
+std::rotate(vec1.begin(), vec1.begin()+rotL, vec1.end());
+Arrays: right Rotation:
+std::rotate(vec2.begin(), vec2.begin()+vec2.size()-rotR, vec2.end()); 
