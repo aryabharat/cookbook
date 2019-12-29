@@ -1,4 +1,4 @@
-# cookbook
+# Cookbook
 ## This repo contains the cookbooks used by our team at ACM-ICPC.
 
 * The cookbook should contain 20-25 pages
